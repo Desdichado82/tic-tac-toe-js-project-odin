@@ -1,0 +1,29 @@
+
+header{
+	display: flex;
+	justify-content: center;
+	background-image:url(/assets/Banner/mario\ banner.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height:250px;
+
+}
+
+.logo{
+	width:150px;
+	height:150px;
+}
+
+h1,h2{
+	text-align: center;
+}
+
+main{
+	display: flex;
+
+	img{
+		width:100%;
+		height:auto;
+	}
+}
